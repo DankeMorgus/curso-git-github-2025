@@ -5,3 +5,6 @@ Esse arquivo contém informações adicionais para git
 
 # Comandos mais genéricos
 - comandos estranhos
+ascaasdvasd
+asdvasdv
+13f23f23
